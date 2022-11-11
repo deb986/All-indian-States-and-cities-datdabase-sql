@@ -942,7 +942,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (14, 'MEGHALAYA', 105),
 (15, 'MIZORAM', 105),
 (16, 'NAGALAND', 105),
-(17, 'ORISSA', 105),
+(17, 'ODISHA', 105),
 (18, 'PUNJAB', 105),
 (19, 'RAJASTHAN', 105),
 (20, 'SIKKIM', 105),
